@@ -2,9 +2,14 @@
     font-family: montserrat;
     font-weight: bold;
     font-size: 300px;
+    color: blue;
 }
 p {
     font-family: montserrat;
     font-weight: bold;
     font-size: 100px;
+    color: white;
+}
+html {
+    background-color: black;
 }
